@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 427,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 336,
+    "timeDay": 336,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "GTOLAB DB",
-    "url": "https://app.gtolab.com/api/health",
-    "icon": "https://icons.duckduckgo.com/ip3/app.gtolab.com.ico",
-    "slug": "gtolab-db",
-    "status": "degraded",
-    "uptime": "61.75%",
-    "uptimeDay": "61.75%",
-    "uptimeWeek": "61.75%",
-    "uptimeMonth": "61.75%",
-    "uptimeYear": "61.75%",
-    "time": 98,
-    "timeDay": 98,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
-    "dailyMinutesDown": {
-      "2025-05-15": 7
-    }
   }
 ]
