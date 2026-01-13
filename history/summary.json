@@ -25,9 +25,9 @@
     "url": "https://app.gtolab.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.gtolab.com.ico",
     "slug": "gtolab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +36,18 @@
     "timeWeek": 308,
     "timeMonth": 276,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-13": 0
+    }
   },
   {
     "name": "GTOLAB DB",
     "url": "https://app.gtolab.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.gtolab.com.ico",
     "slug": "gtolab-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +57,7 @@
     "timeMonth": 56,
     "timeYear": 60,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2025-05-15": 11
     }
   }
