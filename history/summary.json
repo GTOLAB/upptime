@@ -25,19 +25,19 @@
     "url": "https://app.gtolab.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.gtolab.com.ico",
     "slug": "gtolab-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 316,
-    "timeDay": 281,
-    "timeWeek": 293,
-    "timeMonth": 273,
-    "timeYear": 316,
+    "time": 315,
+    "timeDay": 261,
+    "timeWeek": 285,
+    "timeMonth": 272,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2026-01-13": 18
+      "2026-01-13": 31
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://app.gtolab.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.gtolab.com.ico",
     "slug": "gtolab-db",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 60,
-    "timeDay": 52,
-    "timeWeek": 58,
+    "timeDay": 47,
+    "timeWeek": 55,
     "timeMonth": 55,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-01-13": 17,
+      "2026-01-13": 30,
       "2025-05-15": 11
     }
   }
