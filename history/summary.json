@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 743,
-    "timeDay": 254,
-    "timeWeek": 877,
-    "timeMonth": 762,
-    "timeYear": 743,
+    "time": 746,
+    "timeDay": 1421,
+    "timeWeek": 1047,
+    "timeMonth": 792,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-12-02": 26,
       "2025-07-30": 63
@@ -27,17 +27,17 @@
     "slug": "gtolab-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 314,
-    "timeDay": 256,
-    "timeWeek": 275,
-    "timeMonth": 269,
+    "timeDay": 249,
+    "timeWeek": 277,
+    "timeMonth": 272,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2026-01-13": 29
+      "2026-01-13": 18
     }
   },
   {
@@ -47,17 +47,17 @@
     "slug": "gtolab-db",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 60,
-    "timeDay": 40,
-    "timeWeek": 49,
+    "timeDay": 35,
+    "timeWeek": 46,
     "timeMonth": 53,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-01-13": 27,
+      "2026-01-13": 17,
       "2025-05-15": 11
     }
   }
