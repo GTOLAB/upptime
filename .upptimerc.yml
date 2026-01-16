@@ -7,8 +7,10 @@ sites:
     url: https://www.gtolab.com
   - name: GTOLAB App
     url: https://app.gtolab.com
+    maxResponseTime: 45000
   - name: GTOLAB DB
     url: https://app.gtolab.com/api/health
+    maxResponseTime: 45000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
